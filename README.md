@@ -1,2 +1,2 @@
 # hello-world
-My first repository to understand the basics of github. A newbie!!
+my first page. this is committed thing which i am writing right now.
